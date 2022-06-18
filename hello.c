@@ -3,9 +3,9 @@
 
 int main()
 {
-    printf("Hello Github!");
+    printf("Hello Github!\n");
 
-    printf("Hi Github!");
+    printf("Hi Github!\n");
 
     system("pause");
 
